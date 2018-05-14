@@ -6,8 +6,8 @@ description: JGworkshop에서 만든 블로그입니다.
 baseurl:
 url: ""
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+parallax_image_one: assets/images/backg.png # These are the images used for the parallax background
+parallax_image_two: assets/images/backg.png
 
 project_one: "First Project"
 project_one_description: Describe your project!
